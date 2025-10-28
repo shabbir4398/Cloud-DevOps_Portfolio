@@ -1,12 +1,12 @@
 #Objective: Set up a secure and production-ready MySQL Database Server on an AWS EC2 instance*Launch and connect to an EC2 instance
 **Steps
-1️⃣1-:Launch an EC2 Instance
+1-:Launch an EC2 Instance
     AMI: Amazon Linux 2 / Ubuntu 22.04
     Security Group: Allow SSH (Port 22)+MySQL (Port 3306)     
-2️⃣2-Update System Packages        sudo apt update -y && sudo apt upgrade -y
-3️⃣3-install MySQL Server           sudo  apt install mysql-server -y
-4️⃣4-start and Enable MySQL Service  sudo systemctl start/enable/status mysql
-5️⃣5-secure the MySQL Installation    sudo mysql_secure_installation
+2-Update System Packages        sudo apt update -y && sudo apt upgrade -y
+3-install MySQL Server           sudo  apt install mysql-server -y
+4-start and Enable MySQL Service  sudo systemctl start/enable/status mysql
+5-secure the MySQL Installation    sudo mysql_secure_installation
 Then follow the prompts below exactly as required 
 ------------------------------------------------------------------------------------
 Prompt	Action	Example
