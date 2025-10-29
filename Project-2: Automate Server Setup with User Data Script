@@ -1,6 +1,5 @@
 #Objective: Auto-install Apache & host site on launch
 Steps:
-
 #While launching EC2, expand Advanced → User Data.
 Add:
 #!/bin/bash
