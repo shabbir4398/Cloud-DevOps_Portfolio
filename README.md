@@ -17,7 +17,7 @@ Networking | Linux | AWS | Shell Scripting| Terraform | Git | Docker | Kubernete
 ### 🗄️ **Database Projects**
 | 🔢 **Project** | 🧠 **Description** |
 |----------------|------------------|
-| **MySQL / MariaDB Setup** | 🛠️ Install & configure MySQL or MariaDB, create a sample database, manage users, and secure it (disable remote root access, strong passwords), automate regular backups using Bash & Crontab |
+| **MySQL / MariaDB Setup** | 🛠️ Install & configure MySQL or MariaDB, create a sample database, manage users, and secure it (disable remote root access, strong passwords), automate regular backups using Bash & Crontab. |
 
 ---
 
