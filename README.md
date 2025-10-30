@@ -47,6 +47,6 @@ Networking | Linux | AWS | Shell Scripting| Terraform | Git | Docker | Kubernete
 ---
 
 ### 🧰 **Skills Covered**
-`Linux Administration` • `MySQL / MariaDB / PostgreSQL` • `Apache / Nginx` • `NFS / Samba` • `Bash Scripting` • `Automation` • `System Security`
+`Linux Administration` • `MySQL / MariaDB  • `Apache  • `NFS / Samba` • `Bash Scripting` • `Automation` • `System Security
 
 > 💡 *Hands-on projects to build my foundation in Databases, Web Servers, File Servers, and Bash Automation.*
