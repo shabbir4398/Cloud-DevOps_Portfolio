@@ -18,7 +18,6 @@ Networking | Linux | AWS | Shell Scripting| Terraform | Git | Docker | Kubernete
 | 🔢 **Project** | 🧠 **Description** |
 |----------------|------------------|
 | **MySQL / MariaDB Setup** | 🛠️ Install & configure MySQL or MariaDB, create a sample database, manage users, and secure it (disable remote root access, strong passwords). |
-| **PostgreSQL Configuration** | 🧩 Install PostgreSQL, create a database, enable secure remote access, and automate regular backups using Bash. |
 
 ---
 
