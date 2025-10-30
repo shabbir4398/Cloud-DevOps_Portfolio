@@ -10,8 +10,8 @@
 ## 🔧 Tools & Technologies
 Networking | Linux | AWS | Shell Scripting| Terraform | Git | Docker | Kubernetes | Jenkins | Ansibile
 
-This portfolio highlights my Cloud/DevOps learning projects and hands-on automation Task.
-
+⭐*These projects are great starting points to building my Cloud/DevOp fundamentals in Linux, databases, web hosting, and scripting automation.*
+ 
 ## 🚀 Linux & Cloud/DevOps Projects  Projects
 
 > 💡 *Hands-on projects to build my foundation in Databases, Web Servers, File Servers, and Bash Automation.*
@@ -53,7 +53,4 @@ This portfolio highlights my Cloud/DevOps learning projects and hands-on automat
 
 ### 🧰 **Skills Covered**
 `Linux Administration` • `MySQL / MariaDB / PostgreSQL` • `Apache / Nginx` • `NFS / Samba` • `Bash Scripting` • `Automation` • `System Security`
-
----
-⭐*These projects are great starting points to building my  DevOps fundamentals in Linux, databases, web hosting, and scripting automation.*
 
