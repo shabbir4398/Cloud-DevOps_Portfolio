@@ -3,7 +3,7 @@
 
 ## 🧑‍💻 About Me
 - 💡 Transitioning from IT Engineering → Cloud/DevOps
-- 💬 Ask me about: Systems Administration, Cloud Services, Automation & CICD.
+- 💬 Ask me about: Cloud Services, Automation & CICD.
 - 📫 Connect: Shabbir.ahmad.in@gmail.com, Mob:9561667528
 
   
