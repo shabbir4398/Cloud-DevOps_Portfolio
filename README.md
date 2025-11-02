@@ -1,5 +1,5 @@
  # 👋 Hi, I'm Shabbir
- ### 🧑‍💻 IT Engineer | Transitioning from IT Engineering → Cloud/DevOps.
+ ### 🧑‍💻 IT Engineer/System Administer | Transitioning to DevOps.
 
 ## 🧑‍💻 About Me
 - 💡 Transitioning from IT Engineering → Cloud/DevOps
