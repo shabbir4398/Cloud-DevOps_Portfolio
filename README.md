@@ -1,8 +1,8 @@
  # 👋 Hi, I'm Shabbir
- ### 🧑‍💻 IT Engineer/System Administer | Transitioning to DevOps.
+ ### 🧑‍💻 IT-DevOps Engineer.
 
 ## 🧑‍💻 About Me
-- 💡 Transitioning from IT Engineering → Cloud/DevOps
+- 💡 IT-DevOps Engineer
 - 💬 Ask me about: Cloud Services, Automation & CICD.
 - 📫 Connect: Shabbir.ahmad.in@gmail.com, Mob:9561667528
 
