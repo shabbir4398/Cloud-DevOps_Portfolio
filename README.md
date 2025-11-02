@@ -12,7 +12,7 @@ Networking | Linux | AWS | Shell Scripting| Git | Docker | Kubernetes | Jenkins 
 
 ⭐*These projects are great starting points to building my Cloud/DevOp fundamentals in Linux, databases, web hosting, and scripting automation.*
  
-## 🚀 Linux & Cloud/DevOps Projects
+## 🚀 Cloud/DevOps Projects
 
 ### 🗄️ **Database Projects**
 | 🔢 **Project** | 🧠 **Description** |
