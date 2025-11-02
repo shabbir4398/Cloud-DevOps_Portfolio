@@ -27,14 +27,7 @@ Networking | Linux | AWS | Shell Scripting| Terraform | Git | Docker | Kubernete
 | **Apache  Web Hosting** | ⚙️ Install and configure Apache web server to host a  website site (e.g., WordPress using MySQL backend). |
 | **Virtual Host & SSL Setup** | 🔒 Configure multiple virtual hosts and enable HTTPS using free SSL certificates (Let's Encrypt). |
 
----
-
-### 📂 **File Server Projects**
-| 🗃️ **Project** | 🧠 **Description** |
-|----------------|------------------|
-| **NFS Server Configuration** | 📡 Set up an NFS server to share directories between Linux systems. Configure proper access control and persistent mounts. |
-
-
+-
 ---
 
 ### ⚙️ **Bash Scripting & Automation**
@@ -47,6 +40,6 @@ Networking | Linux | AWS | Shell Scripting| Terraform | Git | Docker | Kubernete
 ---
 
 ### 🧰 **Skills Covered**
-`Linux Administration` • `MySQL / MariaDB  • `Apache  • `NFS • `Bash Scripting` • `Automation.
+`Linux Administration` • `MySQL / MariaDB  • `Apache • `Bash Scripting` • `Automation.
 
 > 💡 *Hands-on projects to build my foundation in Databases, Web Servers, File Servers, and Bash Automation.*
