@@ -21,11 +21,13 @@ Networking | Linux | AWS | Shell Scripting| Git | Docker | Kubernetes | Jenkins 
 
 
 
+
 ### 🌐 **Web Server Projects**
 | 🌍 **Project** | 🧠 **Description** |
 |----------------|------------------|
 | **Apache  Web Hosting** | ⚙️ Install and configure Apache web server to host a  website site (e.g., WordPress using MySQL backend). |
 | **Virtual Host & SSL Setup** | 🔒 Configure multiple virtual hosts and enable HTTPS using free SSL certificates (Let's Encrypt). |
+
 
 
 
