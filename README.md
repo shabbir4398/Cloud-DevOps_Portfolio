@@ -1,5 +1,5 @@
  # 👋 Hi, I'm Shabbir
- ### 🧑‍💻 IT-DevOps Engineer.
+ ### 🧑‍💻 IT-DevOps Engineer
 
 ## 🧑‍💻 About Me
 - 💡 IT-DevOps Engineer
