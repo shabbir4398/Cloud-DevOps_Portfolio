@@ -41,4 +41,4 @@ Networking | Linux | AWS | Shell Scripting| Git | Docker | Kubernetes | Jenkins 
 ### 🧰 **Skills Covered**
 `Linux Administration` • `MySQL / MariaDB  • `Apache • `Bash Scripting` • `Automation.
 
-> 💡 *Hands-on projects to build my foundation in Databases, Web Servers, File Servers, and Bash Automation.*
+> 💡 *Hands-on projects to build my foundation in Databases, Web Servers, and Bash Automation.*
