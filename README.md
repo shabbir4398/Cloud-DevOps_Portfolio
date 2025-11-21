@@ -8,7 +8,7 @@
 
   
 ## 🔧 Tools & Technologies
-Networking | Linux | AWS | Shell Scripting| Git | Docker | Kubernetes | Jenkins | Ansibile | Terraform 
+Networking | System Adminstration | Linux | AWS | Shell Scripting| Git | Docker | Kubernetes | Jenkins | Terraform | Ansibile 
 
 ⭐*These projects are great starting points to building my Cloud/DevOp fundamentals in Linux, databases, web hosting, and scripting automation.*
  
