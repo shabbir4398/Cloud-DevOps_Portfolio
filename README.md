@@ -27,13 +27,13 @@ Networking | System Adminstration | Linux | AWS | Shell Scripting| Git | Docker 
 |----------------|------------------|
 | **MySQL / MariaDB Setup** | 🛠️ Install & configure MySQL or MariaDB, create database, manage users, and secure it (disable remote root access, strong passwords), automate regular backups using Shell Scripting & Crontab. |
 
-
-
 ### ⚙️ **Bash Scripting & Automation**
 | 🖥️ **Project** | 🧠 **Description** |
 |----------------|------------------|
-
+| **User Management Automation** | 👥 Write a Bash script to automate user creation, permission setup, and password policies. |
 | **System Resource Utilization Script** | 📊 Create a script to check CPU, memory, and disk usage. Schedule reports using `cron` for automation. |
+| **Backup Automation Script** | 🗂️ Automate backup of critical config files or logs. Add compression, timestamps, and automatic cleanup. |
+
 
  
 ### 🧰 **Skills Covered**
