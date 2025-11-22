@@ -1,11 +1,11 @@
  # 👋 Hi, I'm Shabbir
- ### 🧑‍💻 IT-DevOps Engineer
+ ### 🧑‍💻 IT Engineer | System Administrator | DevOps Engineer 
+Kolkata, India | +91 9561667528 | shabbir.ahmad.in@gmail.com
 
 ## 🧑‍💻 About Me
-- 💡 IT-DevOps Engineer
+- 💡 IT Engineer | System Administrator | DevOps Engineer
 - 💬 Ask me about: Cloud Services, Automation & CICD.
-- 📫 Connect: Shabbir.ahmad.in@gmail.com, Mob:9561667528
-
+  
   
 ## 🔧 Tools & Technologies
 Networking | System Adminstration | Linux | AWS | Shell Scripting| Git | Docker | Kubernetes | Jenkins | Terraform | Ansibile 
