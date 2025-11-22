@@ -35,8 +35,14 @@ Networking | System Adminstration | Linux | AWS | Shell Scripting| Git | Docker 
 | **Backup Automation Script** | 🗂️ Automate backup of critical config files or logs. Add compression, timestamps, and automatic cleanup. |
 
 
+### 📂 **File Server Projects**
+| 🗃️ **Project** | 🧠 **Description** |
+|----------------|------------------|
+| **NFS Server Configuration** | 📡 Set up an NFS server to share directories between Linux systems. Configure proper access control and persistent mounts. |
+
+
  
 ### 🧰 **Skills Covered**
-`Linux Administration` • `MySQL / MariaDB  • `Apache • `Bash Scripting` • `Automation.
+`Linux Administration` • Apache  • MySQL / MariaDB` • Bash Scripting • Automation • NFS 
 
-> 💡 *Hands-on projects to build my foundation in Databases, Web Servers, and Bash Automation.*
+⭐*These projects are great starting points to building my  DevOps fundamentals in Linux, web hosting, databases,scripting automation & NFS Server*
