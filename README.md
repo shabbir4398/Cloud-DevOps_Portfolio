@@ -43,6 +43,6 @@ Networking | System Adminstration | Linux | AWS | Shell Scripting| Git | Docker 
 
  
 ### 🧰 **Skills Covered**
-`Linux Administration` • Apache  • MySQL / MariaDB` • Bash Scripting • Automation • NFS 
+Linux Administration` • Apache  • MySQL / MariaDB • Bash Scripting • Automation • NFS 
 
 ⭐*These projects are great starting points to building my  DevOps fundamentals in Linux, web hosting, databases,scripting automation & NFS Server*
