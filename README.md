@@ -14,14 +14,6 @@ Networking | System Adminstration | Linux | AWS | Shell Scripting| Git | Docker 
  
 ## 🚀 Cloud/DevOps Projects
 
-### 🗄️ **Database Projects**
-| 🔢 **Project** | 🧠 **Description** |
-|----------------|------------------|
-| **MySQL / MariaDB Setup** | 🛠️ Install & configure MySQL or MariaDB, create database, manage users, and secure it (disable remote root access, strong passwords), automate regular backups using Shell Scripting & Crontab. |
-
-
-
-
 ### 🌐 **Web Server Projects**
 | 🌍 **Project** | 🧠 **Description** |
 |----------------|------------------|
@@ -30,11 +22,17 @@ Networking | System Adminstration | Linux | AWS | Shell Scripting| Git | Docker 
 
 
 
+### 🗄️ **Database Projects**
+| 🔢 **Project** | 🧠 **Description** |
+|----------------|------------------|
+| **MySQL / MariaDB Setup** | 🛠️ Install & configure MySQL or MariaDB, create database, manage users, and secure it (disable remote root access, strong passwords), automate regular backups using Shell Scripting & Crontab. |
+
+
 
 ### ⚙️ **Bash Scripting & Automation**
 | 🖥️ **Project** | 🧠 **Description** |
 |----------------|------------------|
- 
+
 | **System Resource Utilization Script** | 📊 Create a script to check CPU, memory, and disk usage. Schedule reports using `cron` for automation. |
 
  
