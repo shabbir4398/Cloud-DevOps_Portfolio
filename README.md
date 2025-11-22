@@ -10,7 +10,7 @@ Kolkata, India | +91 9561667528 | shabbir.ahmad.in@gmail.com
 ## 🔧 Tools & Technologies
 Networking | System Adminstration | Linux | AWS | Shell Scripting| Git | Docker | Kubernetes | Jenkins | Terraform | Ansibile 
 
-⭐*These projects are great starting points to building my Cloud/DevOp fundamentals in Linux, databases, web hosting, and scripting automation.*
+⭐*These projects are great starting points to building my  DevOps fundamentals in Linux, web hosting, databases,scripting automation & NFS Server*
  
 ## 🚀 Cloud/DevOps Projects
 
@@ -45,4 +45,4 @@ Networking | System Adminstration | Linux | AWS | Shell Scripting| Git | Docker 
 ### 🧰 **Skills Covered**
 Linux Administration` • Apache  • MySQL / MariaDB • Bash Scripting • Automation • NFS 
 
-⭐*These projects are great starting points to building my  DevOps fundamentals in Linux, web hosting, databases,scripting automation & NFS Server*
+
