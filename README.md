@@ -14,7 +14,7 @@ Networking | System Adminstration | Linux | AWS | Shell Scripting| Git | Docker 
  
 ## 🚀 Cloud/DevOps Projects
 
-### 🌐 **🌐 Web Server Project-1**
+### **🌐 Web Server Project-1**
 
 | 🌍 **Project** | 🧠 **Description** |
 |----------------|------------------|
