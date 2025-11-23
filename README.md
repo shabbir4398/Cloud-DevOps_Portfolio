@@ -17,8 +17,8 @@ Networking | System Adminstration | Linux | AWS | Shell Scripting| Git | Docker 
 ### 🌐 **Web Server Project-1**
 | 🌍 **Project** | 🧠 **Description** |
 |----------------|------------------|
-| **Apache  Web Hosting** | ⚙️ Install and configure Apache web server to host a  website site (e.g., WordPress using MySQL backend). |
-| **Virtual Host & SSL Setup** | 🔒 Configure multiple virtual hosts and enable HTTPS using free SSL certificates (Let's Encrypt). |
+| **Apache  Web Hosting** |      ⚙️ Install and configure Apache web server to host a website site. |
+| **Virtual Host & SSL Setup** | 🔒 Configure  virtual hosts and enable HTTPS using Open SSL certificates & Redirect all client traffic on https protocol only |
 
 
 
