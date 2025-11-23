@@ -22,7 +22,7 @@ Networking | System Adminstration | Linux | AWS | Shell Scripting| Git | Docker 
 | **Virtual Host & SSL Setup** | 🔒 Configure  virtual hosts and enable HTTPS using Open SSL certificates & Redirect all client traffic on https protocol only |
 
 
-**Note: Web Server Project-1 Steps of Installtion with Snapshot attached as Pdf File above**
+**Note: Web Server Project-1 Steps of Installtion with Snapshot attached as Pdf File above.**
 
 
 ### 🗄️ **Database Project-2**
