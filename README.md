@@ -14,7 +14,7 @@ Networking | System Adminstration | Linux | AWS | Shell Scripting| Git | Docker 
  
 ## 🚀 Cloud/DevOps Projects
 
-### 🌐 **Web Server Projects**
+### 🌐 **Web Server Project-1**
 | 🌍 **Project** | 🧠 **Description** |
 |----------------|------------------|
 | **Apache  Web Hosting** | ⚙️ Install and configure Apache web server to host a  website site (e.g., WordPress using MySQL backend). |
@@ -22,12 +22,12 @@ Networking | System Adminstration | Linux | AWS | Shell Scripting| Git | Docker 
 
 
 
-### 🗄️ **Database Projects**
+### 🗄️ **Database Project-2**
 | 🔢 **Project** | 🧠 **Description** |
 |----------------|------------------|
 | **MySQL / MariaDB Setup** | 🛠️ Install & configure MySQL or MariaDB, create database, manage users, and secure it (disable remote root access, strong passwords), automate regular backups using Shell Scripting & Crontab. |
 
-### ⚙️ **Bash Scripting & Automation**
+### ⚙️ **Bash Scripting & Automation Project-3**
 | 🖥️ **Project** | 🧠 **Description** |
 |----------------|------------------|
 | **User Management Automation** | 👥 Write a Bash script to automate user creation, permission setup, and password policies. |
@@ -35,7 +35,7 @@ Networking | System Adminstration | Linux | AWS | Shell Scripting| Git | Docker 
 | **Backup Automation Script** | 🗂️ Automate backup of critical config files or logs. Add compression, timestamps, and automatic cleanup. |
 
 
-### 📂 **File Server Projects**
+### 📂 **File Server Project-4**
 | 🗃️ **Project** | 🧠 **Description** |
 |----------------|------------------|
 | **NFS Server Configuration** | 📡 Set up an NFS server to share directories between Linux systems. Configure proper access control and persistent mounts. |
