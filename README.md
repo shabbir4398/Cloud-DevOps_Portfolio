@@ -14,10 +14,7 @@ Networking | System Adminstration | Linux | AWS | Shell Scripting| Git | Docker 
  
 ## 🚀 Cloud/DevOps Projects
 
-### 🌐 **🌐 Web Server Project-1
-Apache Web Hosting | Virtual Hosts | HTTPS (OpenSSL) | HTTP → HTTPS Redirection
-
-Author: Shabbir Ahmad**
+### 🌐 **🌐 Web Server Project-1**
 
 | 🌍 **Project** | 🧠 **Description** |
 |----------------|------------------|
