@@ -1,6 +1,6 @@
  # 👋 Hi, SHABBIR AHMAD 
 **IT Engineer | System Administrator | DevOps Engineer** 
-Kolkata, India | +91 9561667528 | shabbir.ahmad.in@gmail.com 
+| Kolkata, India | +91 9561667528 | shabbir.ahmad.in@gmail.com 
 LinkedIn: https://www.linkedin.com/in/shabbir-ahmad-590ba01bb/
 
 ## 🧑‍💻 About Me
