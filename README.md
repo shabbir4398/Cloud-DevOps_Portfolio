@@ -13,7 +13,7 @@ Networking | System Adminstration | Linux | AWS | Shell Scripting| Git | Docker 
 
 ⭐*These projects are great starting points to building my  DevOps fundamentals in Linux, web hosting, databases,scripting automation & NFS Server*
  
-## 🚀 Cloud/DevOps Projects
+## 🚀 LINUX | CLOUD - PROJECTS
 
 ### **🌐 Web Server Project-1**
 
