@@ -33,7 +33,6 @@ Networking | System Adminstration | Linux | AWS | Shell Scripting| Git | Docker 
 ### ⚙️ **Bash Scripting & Automation Project-3**
 | 🖥️ **Project** | 🧠 **Description** |
 |----------------|------------------|
-| **User Management Automation** | 👥 Write a Bash script to automate user creation, permission setup, and password policies. |
 | **System Resource Utilization Script** | 📊 Create a script to check CPU, memory, and disk usage. Schedule reports using `cron` for automation. |
 | **Backup Automation Script** | 🗂️ Automate backup of critical config files or logs. Add compression, timestamps, and automatic cleanup. |
 
