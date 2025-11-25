@@ -35,8 +35,8 @@ Networking | System Adminstration | Linux | AWS | Shell Scripting| Git | Docker 
 ### ⚙️ **Bash Scripting & Automation Project-3**
 | 🖥️ **Project** | 🧠 **Description** |
 |----------------|------------------|
-| **System Resource Utilization Script** | 📊 Create a script to check CPU, memory, and disk usage. Schedule reports using `cron` for automation. |
-| **Backup Automation Script** | 🗂️ Automate backup of critical config files or logs. Add compression, timestamps, and automatic cleanup. |
+| **System Resource Utilization Script** | 📊 Create a script to check CPU, memory, and disk usage & data-backup. Schedule reports using `cron` for automation. |
+
 
 
 ### 📂 **File Server Project-4**
