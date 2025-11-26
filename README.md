@@ -11,6 +11,8 @@ LinkedIn: https://www.linkedin.com/in/shabbir-ahmad-590ba01bb/
 ## 🔧 Tools & Technologies
 Networking | System Adminstration | Linux | AWS | Shell Scripting| Git | Docker | Kubernetes | Jenkins | Terraform | Ansibile 
 
+
+
 ## 🚀 Cloud-PROJECTS
 
 ## 📌 Project 1: Shared Web Hosting on EC2 using EFS (Apache Web Server)
@@ -22,6 +24,8 @@ Networking | System Adminstration | Linux | AWS | Shell Scripting| Git | Docker 
 | **Real-Time Use Case** | Multiple EC2 instances need to read/write from the same shared folder. Ensures consistent content delivery and seamless scaling without manual file synchronization. |
 
 ============================================================================
+
+
 
 ## 🚀 LINUX-PROJECTS
 
