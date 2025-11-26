@@ -15,7 +15,7 @@ Networking | System Adminstration | Linux | AWS | Shell Scripting| Git | Docker 
 
 ## 🚀 Cloud-PROJECTS
 
-## 📌 Project 1: Shared Web Hosting on EC2 using EFS (Apache Web Server)
+## 📌 Project 1: Shared Web Hosting on EC2 using EFS (Web Server)
 
 
 | **Section**          | 🧠 **Description** |
