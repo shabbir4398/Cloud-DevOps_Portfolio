@@ -11,17 +11,18 @@ LinkedIn: https://www.linkedin.com/in/shabbir-ahmad-590ba01bb/
 ## 🔧 Tools & Technologies
 Networking | System Adminstration | Linux | AWS | Shell Scripting| Git | Docker | Kubernetes | Jenkins | Terraform | Ansibile 
 
+## 🚀 Cloud-PROJECTS
 
-## 📌 Project Overview: Shared Web Hosting on EC2 using EFS
+## 📌 Project 1: Shared Web Hosting on EC2 using EFS (Apache Web Server)
 
 | **Section**          | **Description** |
 |----------------------|-----------------|
 | **Concept**          | Host a website using multiple EC2 servers where all servers share the same website files via Amazon EFS. This ensures that all web servers use a single shared document root (`/var/www/html`) regardless of how many EC2 instances are running. |
-| **Real-Time Use Case** | Used in auto-scaling and load-balanced web applications where multiple EC2 instances need to read/write from the same shared folder. Ensures consistent content delivery and seamless scaling without manual file synchronization. |
+| **Real-Time Use Case** | Multiple EC2 instances need to read/write from the same shared folder. Ensures consistent content delivery and seamless scaling without manual file synchronization. |
 
+==============================================================================================================================================================================
 
-
-## 🚀 LINUX | CLOUD - PROJECTS
+## 🚀 LINUX-PROJECTS
 
 ### **🌐 Web Server Project-1**
 
