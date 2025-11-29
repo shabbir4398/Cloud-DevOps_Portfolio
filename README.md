@@ -74,5 +74,5 @@ Networking | System Adminstration | Linux | AWS | Shell Scripting| Git | Docker 
  
  
 ### 🧰 **Skills Covered**
-Linux Administration` • Apache  • MySQL / MariaDB • Bash Scripting • Automation • NFS 
+Linux Administration` • Apache  • MySQL / MariaDB • Bash Scripting • Automation • NFS • EFS
 
