@@ -23,6 +23,10 @@ Networking | System Adminstration | Linux | AWS | Shell Scripting| Git | Docker 
 | **Concept**          | Host a website using multiple EC2 servers where all servers share the same website files via Amazon EFS. This ensures that all web servers use a single shared document root (`/var/www/html`) regardless of how many EC2 instances are running. |
 | **Real-Time Use Case** | Multiple EC2 instances need to read/write from the same shared folder. Ensures consistent content delivery and seamless scaling without manual file synchronization. |
 
+**Note: Project 1- EFS Steps of Installation with Snapshot attached as Pdf File above.**
+
+
+
 =========================================================================
 
 
@@ -47,6 +51,10 @@ Networking | System Adminstration | Linux | AWS | Shell Scripting| Git | Docker 
 |----------------|------------------|
 | **MySQL / MariaDB Setup** | 🛠️ Install & configure MySQL or MariaDB, create database, manage users, and secure it (disable remote root access, strong passwords), automate regular backups using Shell Scripting & Crontab. |
 
+
+**Note:Database Project-2 Steps of Installation with Snapshot attached as Pdf File above.**
+
+
 ### ⚙️ **Bash Scripting & Automation Project-3**
 | 🖥️ **Project** | 🧠 **Description** |
 |----------------|------------------|
@@ -58,6 +66,9 @@ Networking | System Adminstration | Linux | AWS | Shell Scripting| Git | Docker 
 | 🗃️ **Project** | 🧠 **Description** |
 |----------------|------------------|
 | **NFS Server Configuration** | 📡 Set up an NFS server to share directories between Linux systems. Configure proper access control and persistent mounts. |
+
+
+**Note:File Server Project-4 Steps of Installation with Snapshot attached as Pdf File above.**
 
 ⭐*These projects are great starting points to building my  DevOps fundamentals in Linux, web hosting, databases,scripting automation & NFS Server*
  
