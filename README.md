@@ -4,7 +4,7 @@
 LinkedIn: https://www.linkedin.com/in/shabbir-ahmad-590ba01bb/
 
 ## 🧑‍💻 About Me
-- 💡 IT Engineer | System Administrator | DevOps Engineer
+- 💡 IT Engineer | System Administrator | DevOps Engineer.
 - 💬 Ask me about: Cloud Services, Automation & CICD.
   
   
