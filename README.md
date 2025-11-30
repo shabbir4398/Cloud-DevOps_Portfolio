@@ -70,7 +70,7 @@ Networking | System Adminstration | Linux | AWS | Shell Scripting| Git | Docker 
 
 **Note:File Server Project-4 Steps of Installation with Snapshot attached as Pdf File above.**
 
-⭐*These projects are great starting points to building my  DevOps fundamentals in Linux, web hosting, databases,scripting automation,NFS Server & AWS-EFS*
+⭐*These projects are great starting points to building my  DevOps fundamentals in Linux, web hosting, databases,scripting automation,NFS Server & AWS-EFS.*
  
  
 ### 🧰 **Skills Covered**
