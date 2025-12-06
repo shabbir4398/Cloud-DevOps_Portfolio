@@ -26,7 +26,7 @@ Networking | System Adminstration | Linux | AWS | Shell Scripting| Git | Docker 
 **Note: Project 1- EFS Steps of Installation with Snapshot attached as Pdf File above.**
 
 
-🚀Project 2: AWS 2-Tier Architecture Project (VPC + Public + Private + NAT Gateway)
+##🚀Project 2: AWS 2-Tier Architecture Project (VPC + Public + Private + NAT Gateway)
 
 | **Component**             | **Description**                                                | **Notes**                           |
 | ------------------------- | -------------------------------------------------------------- | ----------------------------------- |
