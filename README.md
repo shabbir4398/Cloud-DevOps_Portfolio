@@ -31,8 +31,8 @@ Networking | System Adminstration | Linux | AWS | Shell Scripting| Git | Docker 
 | **Component**             | **Description**                                                | **Notes**                           |
 | ------------------------- | -------------------------------------------------------------- | ----------------------------------- |
 | **Project**               | AWS 2-Tier Architecture (VPC + Public + Private + NAT Gateway) | Industry-standard design            |
-| **Tier 1 – Public Tier**  | Web Server (EC2) in Public Subnet                              | Accessible via Internet Gateway     |
-| **Tier 2 – Private Tier** | DB Server (EC2) in Private Subnet                              | Not exposed to the internet         |
+| **Tier 1 – Public**  | Web Server (EC2) in Public Subnet                              | Accessible via Internet Gateway     |
+| **Tier 2 – Private** | DB Server (EC2) in Private Subnet                              | Not exposed to the internet         |
 | **Connectivity**          | NAT Gateway enables Private EC2 outbound internet              | Used for updates & package installs |
 | **Security**              | DB only accessible from Web Server SG                          | Highest isolation & protection      |
 
