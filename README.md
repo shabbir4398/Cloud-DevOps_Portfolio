@@ -9,7 +9,7 @@ LinkedIn: https://www.linkedin.com/in/shabbir-ahmad-590ba01bb/
   
   
 ## 🔧 Tools & Technologies
-Networking | System Adminstration | Linux | AWS | Shell Scripting| Git | Docker | Kubernetes | Jenkins | Terraform | Ansibile.
+Networking | System Adminstration | Linux | AWS | Shell Scripting| Git | Docker | Kubernetes | Jenkins.
 
 
 
