@@ -1,5 +1,5 @@
  # 👋 Hi,  I'm SHABBIR AHMAD 
-**Linux and AWS Cloud Engineer**
+**Linux | AWS Cloud Engineer**
 **| Kolkata | India | 9561667528 |** shabbir.ahmad.in@gmail.com 
 LinkedIn: https://www.linkedin.com/in/shabbir-ahmad-590ba01bb/
 
