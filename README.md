@@ -1,15 +1,15 @@
  # 👋 Hi,  I'm SHABBIR AHMAD 
-**Linux | AWS Cloud Engineer**
+**DevOps Engineer | Linux and AWS Engineer **
 **| Kolkata | India | 9561667528 |** shabbir.ahmad.in@gmail.com 
 LinkedIn: https://www.linkedin.com/in/shabbir-ahmad-590ba01bb/
 
 ## 🧑‍💻 About Me
-- 💡 Linux and AWS Cloud Engineer.
+- 💡 DevOps Engineer | Linux and AWS Engineer .
 - 💬 Ask me about: System Adminstration, Networking, Cloud Services | Automation.
   
   
 ## 🔧 Tools & Technologies
- System Adminstration | Networking | Linux | AWS | Shell Scripting.
+ System Adminstration | Networking | Linux | AWS | Shell Scripting | Git.
 
 
 
