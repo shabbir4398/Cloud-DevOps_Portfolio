@@ -1,8 +1,11 @@
  # 👋 Hi,  I'm SHABBIR AHMAD 
- Linux & AWS Cloud  Engineer
+ Linux | AWS | DevOps Engineer 
 **| Kolkata | India | 9561667528 |** shabbir.ahmad.in@gmail.com 
 ## 🧑‍💻 About Me
-- 💡  Linux & AWS Cloud  Engineer
+- 💡  Linux and AWS infrastructure engineer with 6 years of IT operations experience, including 2+ years administering production 
+AWS environments and Linux fleets of 50+ servers. Hands-on experience building CI/CD pipelines with Jenkins, containerizing 
+applications with Docker, and managing Kubernetes workloads. AWS Certified Solutions Architect – Associate and RHCSA 
+certified, with hands-on experience in configuration management using Ansible. 
 - 💬 Ask me about: System Adminstration, Networking, Cloud Services | Automation.
   
   
