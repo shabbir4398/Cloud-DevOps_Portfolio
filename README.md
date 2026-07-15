@@ -2,11 +2,10 @@
  Linux | AWS | DevOps Engineer 
 **| Kolkata | India | 9561667528 |** shabbir.ahmad.in@gmail.com 
 ## 🧑‍💻 About Me
-Linux and AWS infrastructure engineer with 6 years of IT operations experience, including 2+ years administering production 
-      AWS environments and Linux fleets of 50+ servers. Hands-on experience building CI/CD pipelines with Jenkins, containerizing 
-      applications with Docker, and managing Kubernetes workloads. AWS Certified Solutions Architect – Associate and RHCSA 
-      certified, with hands-on experience in configuration management using Ansible. 
- 
+Linux & AWS Engineer with 6 years of IT infrastructure experience, including over 2 years managing production Linux 
+and AWS cloud environments. Skilled in Ansible for infrastructure automation, Jenkins for CI/CD, Docker and Kubernetes 
+for containerized deployments. Strong expertise in Linux administration with a focus on building reliable and scalable 
+infrastructure
   
   
 ## 🔧 Tools & Technologies
