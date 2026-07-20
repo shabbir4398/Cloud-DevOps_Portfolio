@@ -39,9 +39,7 @@ Use default security group OR create new:
 
 Allow NFS (2049) from EC2 security group
 
-![Image Alt](https://github.com/shabbir4398/Cloud-DevOps_Portfolio/blob/main/Screenshot%202026-07-20%20175128.png
-
-)
+![EFS Setup Screenshot](https://github.com/shabbir4398/Cloud-DevOps_Portfolio/blob/main/Screenshot%202026-07-20%20175128.png?raw=true)
 
 
 ## 🚀Project 2: AWS 2-Tier Architecture Project (VPC + Public + Private + NAT Gateway)
