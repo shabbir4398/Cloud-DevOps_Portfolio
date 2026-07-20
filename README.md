@@ -2,14 +2,10 @@
  Linux | AWS | DevOps Engineer 
 **| Kolkata | India | 9561667528 |** shabbir.ahmad.in@gmail.com 
 ## 🧑‍💻 About Me
-Linux & AWS Engineer with 6 years of IT infrastructure experience, including over 2 years managing production Linux 
-and AWS cloud environments. Skilled in Ansible for infrastructure automation, Jenkins for CI/CD, Docker and Kubernetes 
+Linux & AWS Engineer. Skilled in Ansible for infrastructure automation, Jenkins for CI/CD, Docker and Kubernetes 
 for containerized deployments. Strong expertise in Linux administration with a focus on building reliable and scalable 
 infrastructure
-![Image Alt](https://github.com/shabbir4398/Cloud-DevOps_Portfolio/blob/main/Screenshot%202026-07-20%20175128.png
 
-)
-  
 ## 🔧 Tools & Technologies
  Linux | AWS | Shell Scripting | Git | Anisible | Docker | Kubernetes | Jenkins.
 
@@ -43,7 +39,9 @@ Use default security group OR create new:
 
 Allow NFS (2049) from EC2 security group
 
+![Image Alt](https://github.com/shabbir4398/Cloud-DevOps_Portfolio/blob/main/Screenshot%202026-07-20%20175128.png
 
+)
 
 
 ## 🚀Project 2: AWS 2-Tier Architecture Project (VPC + Public + Private + NAT Gateway)
