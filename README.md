@@ -6,7 +6,9 @@ Linux & AWS Engineer with 6 years of IT infrastructure experience, including ove
 and AWS cloud environments. Skilled in Ansible for infrastructure automation, Jenkins for CI/CD, Docker and Kubernetes 
 for containerized deployments. Strong expertise in Linux administration with a focus on building reliable and scalable 
 infrastructure
-  
+![Image Alt](https://github.com/shabbir4398/Cloud-DevOps_Portfolio/blob/main/Screenshot%202026-07-20%20175128.png
+
+)
   
 ## 🔧 Tools & Technologies
  Linux | AWS | Shell Scripting | Git | Anisible | Docker | Kubernetes | Jenkins.
