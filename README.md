@@ -25,6 +25,24 @@ infrastructure
 
 **Note: Project 1- EFS Steps of Installation with Snapshot attached as Pdf File above.**
 
+ Step-By-Step Implementation
+
+
+1️⃣ Create an EFS File System
+AWS Console → EFS → Create File System
+Select VPC where  EC2 instances live
+
+
+Create Mount Targets in each Availability Zone
+
+
+Use default security group OR create new:
+
+
+Allow NFS (2049) from EC2 security group
+
+
+
 
 ## 🚀Project 2: AWS 2-Tier Architecture Project (VPC + Public + Private + NAT Gateway)
 
